@@ -1,15 +1,41 @@
-h2{
-    color:red;
+h1 {
+    color: maroon;
 }
 
-ul{
-    color:blue;
+h2 {
+    color: red;
 }
 
-p{
-    color:green;
+h3 {
+    color: goldenrod;
 }
 
-footer{
-    color:yellow;
+ul {
+    color: blue;
+    list-style: none;
+    display: flex;
+}
+
+p {
+    color: green;
+}
+
+footer {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    padding: 1%;
+    display: grid;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 1%;
+    border: solid crimson;
 }
